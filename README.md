@@ -17,8 +17,6 @@ bbbbbb
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Allzbl&theme=dark&hide_border=false)<br/>
 
 
-![](https://komarev.com/ghpvc/?username=Allzbl&color=blueviolet)
----
 
 
 
